@@ -8,3 +8,5 @@ The power grid is a critical infrastructure that provides electricity to homes, 
 You can find the full report about this model in the report in this repo.
 
 This was a team project. Credit to Alex Semenov, Liam Dietrich, Benjamin Rockman and myself Andy Nguyen
+
+You can run the demo file yourself and follow the instruction to learn more about the results of the project
