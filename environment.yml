@@ -1,0 +1,19 @@
+name: engg3130
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - jupyterlab=3
+  - numpy
+  - matplotlib
+  - seaborn
+  - networkx=2
+  - sphinx
+  - tqdm
+  - future
+  - pip
+  - nbstripout
+  - python-lsp-server
+  - jupyterlab-lsp
+  - pip:
+    - empiricaldist
